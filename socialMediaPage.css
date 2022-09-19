@@ -1,0 +1,32 @@
+#social {
+	background-color: black;
+	height: 200px;
+	position: sticky;
+	bottom: 0;
+	z-index: 0;
+}
+
+#headingSocialMedia {
+	color: #2c109d;
+}
+
+#mediaLinks {
+	height: 100px;
+}
+
+#mediaLinks * {
+	color: rgb(250, 250, 250);
+	margin: 10px;
+}
+
+/* #mediaLinks *:hover {
+	color: rgb(6, 250, 120);
+} */
+
+#wp:hover{color: rgb(0, 255, 119);}
+
+#gm:hover{color: rgb(255, 0, 0);}
+
+#gh:hover{color: rgb(125, 124, 124);}
+
+#ol:hover{color: rgb(0, 183, 255);}

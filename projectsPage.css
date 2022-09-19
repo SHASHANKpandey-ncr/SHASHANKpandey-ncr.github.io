@@ -1,0 +1,27 @@
+#projectsPage {
+    min-height: 100vh;
+    /* border: red dashed 1px; */
+    /* changes sp */
+    background: linear-gradient(#2c109d, #353377);
+}
+
+.heading1 {
+    font-size: 33;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    color: #707070;
+}
+
+.shadow {
+    -moz-box-shadow: 3px 3px 5px 6px #ccc;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow: 3px 3px 5px 6px #ccc;
+}
+
+.zoom {
+    transition: ease-in 0.1s;
+}
+.zoom:hover {
+    transform: scale(1.08);
+    cursor: pointer;
+}
