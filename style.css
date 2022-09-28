@@ -1,12 +1,12 @@
+
 ::-webkit-scrollbar {
-    width: 10px;
-    background: transparent;
+    /* width: 10px;
+    background: transparent; */
+    display: none;
 }
 
 
-::-webkit-scrollbar-track {
-    /* background: transparent; */
-}
+
 
 ::-webkit-scrollbar-thumb {
     /* changes sp */
